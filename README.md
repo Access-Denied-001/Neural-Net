@@ -1,2 +1,2 @@
 # Neural-Net-
-Neural Network made by using numpy
+Generalized Neural Network made using first principles
